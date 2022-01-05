@@ -1,7 +1,7 @@
 ---
 title: Visual Studio Editor package version update
 categories: [Unity, Error]
-tags: [] #lowercase    
+tags: [unity] #lowercase    
 ---
 
 # Visual Studio Editor Package version 2.0.12 is available, we strongly encourage you to update from the Unity Package Manager for a better Visual Studio integration
