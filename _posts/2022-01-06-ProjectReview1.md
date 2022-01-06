@@ -1,6 +1,6 @@
 ---
 title: Unity Team Project Review
-categories: [Resume, Unity]
+categories: [Resume, project]
 tags: [unity] #lowercase    
 ---
 
