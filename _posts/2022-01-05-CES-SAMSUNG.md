@@ -1,6 +1,6 @@
 ---
 title: CES2022 SAMSUNG
-categories: [Tech,Issue ]
+categories: [Tech,Hardware ]
 tags: [samsung] #lowercase    
 ---
 
