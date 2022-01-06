@@ -1,6 +1,6 @@
 ---
 title: Visual Studio Editor package version update
-categories: [Unity, Error]
+categories: [Unity, UnityError]
 tags: [unity] #lowercase    
 ---
 

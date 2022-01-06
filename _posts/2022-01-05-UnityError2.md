@@ -1,6 +1,6 @@
 ---
 title: Unity & Github CRLF Error
-categories: [Unity, Error]
+categories: [Unity, UnityError]
 tags: [unity] #lowercase    
 ---
 
