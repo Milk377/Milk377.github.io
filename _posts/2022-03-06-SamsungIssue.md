@@ -5,7 +5,11 @@ tags: [samsung] #lowercase
 ---
 
 
-# GOS 강제로 인한 이슈
+# GOS 강제로 인한 이슈 　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+
+
 
 # When 
 - Samsung Galaxy S22 출시일 + 4.0 업데이트
