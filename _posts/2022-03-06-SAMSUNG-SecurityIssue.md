@@ -6,9 +6,13 @@ tags: [samsung] #lowercase
 
 
 <img src="https://user-images.githubusercontent.com/37606666/156897540-c0dec1c6-9ba8-49c6-bf56-5ed4af782065.jpg" width="800" height="500">
- 　　　　　　　　　　　　　　　　　　　　
+
+# 삼성 시스템 해킹 　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+
+
+
 
 
 

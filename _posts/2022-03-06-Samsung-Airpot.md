@@ -4,9 +4,16 @@ categories: [Tech,Issue]
 tags: [samsung] #lowercase    
 ---
 
-<img src="https://user-images.githubusercontent.com/37606666/156920633-eb80dff8-4010-4268-81c5-2fe58d9c6b69.png" width="800" height="500" >
+<img src="https://user-images.githubusercontent.com/37606666/156920633-eb80dff8-4010-4268-81c5-2fe58d9c6b69.png" width="800" height="500" > 
 
 # 갤럭시 소스코드에 에어팟 레이턴시 코드 발견
+ 　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+
+
+
+
 
 # When 
 - 2022-03-06
