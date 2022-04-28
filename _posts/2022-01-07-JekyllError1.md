@@ -1,6 +1,6 @@
 ---
 title: About Post Error
-categories: [Jekyll,JekyllError]
+categories: [Error,JekyllError]
 tags: [jekyll] #lowercase    
 ---
 

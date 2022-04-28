@@ -1,6 +1,6 @@
 ---
 title: Unity Visual Studio Code Editor Version
-categories: [Unity, UnityError]
+categories: [Error, UnityError]
 tags: [unity] #lowercase    
 ---
 
