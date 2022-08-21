@@ -1,11 +1,12 @@
 ---
-title: Rigidbody.MoveRotation
+title: Rigidbody.MoveRotation <Wrong>
 categories: [Rigidbody, Rotation]
 tags: [unity] #lowercase
 ---
 
-# Rigidbody GameObject Rotate 에러
-　　　　　　　　　　　　　　　　　　　　　　　　　
+# Rigidbody GameObject Rotate 에러   
+
+　　　　　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 　
@@ -13,7 +14,7 @@ tags: [unity] #lowercase
 
 
 
-
+# 다시 해보니 동작한다. 😝   
 ----------------------------------------
 ```csharp
 float moveSpeed = 5.0f;
@@ -24,9 +25,10 @@ rb.MoveRotation(moveQuat);
 
 // Rigidbody rb = GetComponent<Rigidbody>()
 ```
-위 코드는 rigid body가 있는 오브젝트를 회전할때 사용 할 수 있지만
+~~위 코드는 rigid body가 있는 오브젝트를 회전할때 사용 할 수 있지만
 해당 오브젝트의 rigidbody가 
-구형(Shpere)인 경우 MoveRotation이 작동하지 않는다.
+구형(Shpere)인 경우 MoveRotation이 작동하지 않는다.~~
+
 
 ----------------------------------------
 
